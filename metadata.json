@@ -1,0 +1,7 @@
+{
+  "name": "Remix Remix CRISFISH — Sales Canvassing & Owner Dashboard",
+  "description": "Aplikasi operasional perusahaan CRISFISH untuk manajemen sales canvassing konsinyasi 14 hari, GPS check-in, setoran, stok, dan owner monitoring dashboard.",
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
